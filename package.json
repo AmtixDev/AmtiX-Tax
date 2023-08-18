@@ -1,0 +1,21 @@
+{
+  "name": "amtix-tax",
+  "version": "1.3.0",
+  "description": "probot tax by amtixdev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AmtiX-Tax",
+    "AmtiXDev",
+    "Probot",
+    "Tax",
+    "Probottax",
+    "Probot-tax",
+    "Discord.js",
+    "Discord"
+  ],
+  "author": "AmtiXDev",
+  "license": "ISC"
+}
